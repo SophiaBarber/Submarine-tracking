@@ -10,5 +10,5 @@ to extract the center frequency in the Fourier domain, thereby cleaning the data
 location of highest acoustic pressure in the clean data at each time step to determine the location
 of the submarine.
 
-Note: Code and data is provided in a zip file due to the large file sizes.
-Data provided by Dr. Natalie Frank at the University of Washington as a part of the AMATH 482 Course.
+Note: Code and data are provided in a zip file due to the large file sizes.
+Data and project setup provided by Dr. Natalie Frank at the University of Washington as a part of the AMATH 482 Course.
